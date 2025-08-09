@@ -31,7 +31,7 @@
 Accuracy: 98.05% on test data
 
 
-## 🧑‍🎓 Student Information
+# 🧑‍🎓 Student Information
 
 - **Name:** Priya Joisy  
 - **Roll No:** 222010007035 
